@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+  }
+  
+  .post-form {
+    margin-bottom: 20px;
+  }
+  
+  .post {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .post img {
+    max-width: 100%;
+  }
+  
+  .actions {
+    margin-top: 10px;
+  }
+  
+  .comment-section {
+    margin-top: 10px;
+  }
+  
+  .comment {
+    border-top: 1px solid #eee;
+    padding-top: 5px;
+    margin-top: 5px;
+  }
+  
